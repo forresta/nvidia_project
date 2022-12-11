@@ -1,12 +1,12 @@
-# Project Name
+Emotion Detector
 
- Add short description of project here > 
+This model is trained too detect neutral, happy, sad, and angry faces.
 
 ![add image descrition here](direct image link here)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+Using a ResNet 18 model, I trained it with Jupyter and a live camera. I trained it with a variety of photos of people with different emotions. Depending on what face you make, it will detect what kind of emotion you are feeling. 
 
 ## Running this project
 
